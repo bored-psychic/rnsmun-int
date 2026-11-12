@@ -1,5 +1,7 @@
 # RNSMUN 2026 — website
 
+**Live site:** https://rnsmun-boredpsychic.netlify.app
+
 The RNSIT Model United Nations home page: a scroll-driven "Journey" through the six committees, followed by the full home page (sponsors, numbers, committees, delegate kit, awards, passes).
 
 Built with **React + Vite**. Runs fully offline: fonts, images and videos are all inside this folder.
